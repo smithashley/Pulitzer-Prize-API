@@ -8,13 +8,13 @@ Application is live here: https://pulitzerprizeforfiction.azurewebsites.net/api/
 ## Tools
 - Python
 
-![](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
+![](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg =100x20)
 - Flask
 
-![](https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg)
+![](https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg =100x20)
 - Azure
 
-![](https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg)
+![](https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg =100x20)
 ## Steps
 - Created NoSQL database
     - In Azure portal, created Cosmos DB account
