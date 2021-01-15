@@ -14,11 +14,12 @@ Application is live here: https://pulitzerprizeforfiction.azurewebsites.net/api/
 - Created NoSQL database
     - In Azure portal, created Cosmos DB account
     - In Cosmos DB account, created database
-    - Created a container that holds the collection of items
+    - In database, created a container that holds the collection of items
         - Items composed of data from: https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction
 - Set-up key management
     - Configured the Key Vault
     - Created a new secret that contains the read-only key to the database
+    - Add access policy for application
 - Create GET request
     - Configured connection to database using key management
     - Wrote GET request to query the data in database
