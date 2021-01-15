@@ -7,20 +7,10 @@ Prize winners of fiction from the database, then deploy the application to Azure
 Application is live here: https://pulitzerprizeforfiction.azurewebsites.net/api/data
 ## Tools
 - Python
-
-![](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
 - Flask
-
-![](https://miro.medium.com/max/800/1*Q5EUk28Xc3iCDoMSkrd1_w.png)
 - Azure Cosmos DB
-
-![](https://azure.microsoft.com/svghandler/cosmos-db?width=600&height=315)
 - Azure App Service
-
-![](https://ms-azuretools.gallerycdn.vsassets.io/extensions/ms-azuretools/vscode-azureappservice/0.20.0/1604973785944/Microsoft.VisualStudio.Services.Icons.Default)
 - Azure Key Vault
-
-![](https://azure.microsoft.com/svghandler/key-vault?width=600&height=315)
 ## Steps
 - Created NoSQL database
     - In Azure portal, created Cosmos DB account
