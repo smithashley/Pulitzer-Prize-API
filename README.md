@@ -7,10 +7,13 @@ Prize winners of fiction from the database, then deploy the application to Azure
 Application is live here: https://pulitzerprizeforfiction.azurewebsites.net/api/data
 ## Tools
 - Python
+
 ![](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
 - Flask
+
 ![](https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg)
 - Azure
+
 ![](https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg)
 ## Steps
 - Created NoSQL database
