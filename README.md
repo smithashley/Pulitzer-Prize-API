@@ -14,7 +14,7 @@ Application is live here: https://pulitzerprizeforfiction.azurewebsites.net/api/
 - Created NoSQL database
     - In Azure portal, created Cosmos DB account
     - In Cosmos DB account, created database
-    - In database, created a container that holds the collection of items
+    - In database, created a container that holds the collection of items (partitioned by year)
         - Items composed of data from: https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction
 - Configured Azure App Service plan
 - Set-up key management
