@@ -7,9 +7,11 @@ Prize winners of fiction from the database, then deploy the application to Azure
 Application is live here: https://pulitzerprizeforfiction.azurewebsites.net/api/data
 ## Tools
 - Python
+![](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
 - Flask
-- Git  
-- Azure 
+![](https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg)
+- Azure
+![](https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg)
 ## Steps
 - Created NoSQL database
     - In Azure portal, created Cosmos DB account
@@ -20,8 +22,8 @@ Application is live here: https://pulitzerprizeforfiction.azurewebsites.net/api/
 - Set-up key management
     - Configured the Key Vault
     - Created a new secret that contains the read-only key to the database
-    - Add access policy for application
-- Create GET request
+    - Added access policy for application
+- Created GET request
     - Configured connection to database using key management
     - Wrote GET request to query the data in database
     - Wrote test script to validate application locally
@@ -34,5 +36,5 @@ Application is live here: https://pulitzerprizeforfiction.azurewebsites.net/api/
         - source .venv/bin/activate
         - pip install -r requirements.txt
         - flask run
-        - az webapp up --sku B1 --name [instert application name here]
+        - az webapp up --sku B1 --name [insert application name here]
     - After the deployment was successful the application went live
