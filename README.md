@@ -27,6 +27,12 @@ Application is live here: https://pulitzerprizeforfiction.azurewebsites.net/api/
     - Wrote test script to validate application locally
 - Deployed to Azure App Service
     - Created requirements.txt file to import modules needed for the application
-    - Pushed the code to Github
-    - Configured the CI/CD pipeline with Github Actions
+    - In the terminal:
+        - cd [insert application file path here]
+        - az login
+        - python3 -m venv .venv
+        - source .venv/bin/activate
+        - pip install -r requirements.txt
+        - flask run
+        - az webapp up --sku B1 --name [instert application name here]
     - After the deployment was successful the application went live
