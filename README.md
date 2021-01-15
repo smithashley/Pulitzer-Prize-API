@@ -11,10 +11,16 @@ Application is live here: https://pulitzerprizeforfiction.azurewebsites.net/api/
 ![](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
 - Flask
 
-![](https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg){width=50%}
-- Azure
+![](https://miro.medium.com/max/800/1*Q5EUk28Xc3iCDoMSkrd1_w.png)
+- Azure Cosmos DB
 
-![](https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg)
+![](https://azure.microsoft.com/svghandler/cosmos-db?width=600&height=315)
+- Azure App Service
+
+![](https://ms-azuretools.gallerycdn.vsassets.io/extensions/ms-azuretools/vscode-azureappservice/0.20.0/1604973785944/Microsoft.VisualStudio.Services.Icons.Default)
+- Azure Key Vault
+
+![](https://azure.microsoft.com/svghandler/key-vault?width=600&height=315)
 ## Steps
 - Created NoSQL database
     - In Azure portal, created Cosmos DB account
