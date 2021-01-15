@@ -1,1 +1,5 @@
 Flask
+azure==4.0.0
+azure-cosmos
+azure-identity
+azure-keyvault-secrets
