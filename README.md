@@ -1,7 +1,7 @@
 # Pulitzer Prize API
 
 ## Objective
-Create an API that retrieves the year, author, and title for Pulitzer 
+Create a REST API that retrieves the year, author, and title for Pulitzer 
 Prize winners of fiction from the database, then deploy the application to Azure.
 
 Application is live here: https://pulitzerprizeforfiction.azurewebsites.net/api/data
